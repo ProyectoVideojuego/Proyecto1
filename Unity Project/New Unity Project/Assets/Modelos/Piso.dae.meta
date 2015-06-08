@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b99edf066880cc841896a6f408d16d13
-timeCreated: 1433379304
+guid: 68a241b8140e57040af34fa8c922e302
+timeCreated: 1433721450
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,13 +9,20 @@ ModelImporter:
     100002: Lamp
     100004: //RootNode
     100006: Plane
+    100008: Plane_MeshPart0
+    100010: Plane_MeshPart1
     400000: Camera
     400002: Lamp
     400004: //RootNode
     400006: Plane
-    2300000: Plane
-    3300000: Plane
-    4300000: Plane
+    400008: Plane_MeshPart0
+    400010: Plane_MeshPart1
+    2300000: Plane_MeshPart0
+    2300002: Plane_MeshPart1
+    3300000: Plane_MeshPart0
+    3300002: Plane_MeshPart1
+    4300000: Plane_MeshPart0
+    4300002: Plane_MeshPart1
     9500000: //RootNode
   materials:
     importMaterials: 1
